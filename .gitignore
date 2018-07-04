@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/dictionaries/chenzhili.xml
+*.iml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/vagrant.xml
+.idea/modules.xml
