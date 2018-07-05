@@ -102,5 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 1-6 tuple.py
 2-1 if- else.py
+=======
+.idea/dictionaries/chenzhili.xml
+*.iml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/vagrant.xml
+.idea/modules.xml
+2-5 while3.py
+>>>>>>> e0821e47e76bd4abe16c040c9104c6fe18acf1af
