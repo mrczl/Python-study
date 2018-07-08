@@ -6,5 +6,5 @@
         statement1
         statement2
 """
-def helloworld(a,b):
-    print("sum =",a+b)
+def hello(world):           # world形参
+    print("hello_" + world)  
